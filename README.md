@@ -18,6 +18,9 @@ Shopli is a basic e-commerce website that allows users to browse products, view 
 - **Tailwind CSS**: For efficient and responsive styling.
 - **Vitest***: For testing components and ensuring application stability.
 
+## Development Approach
+
+This project follows a Test-Driven Development (TDD) approach, where tests are written first using Vitest to ensure the reliability and correctness of the application before implementing the features.
 
 ## Design
 
